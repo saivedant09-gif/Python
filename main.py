@@ -349,13 +349,13 @@ def citizen_login():
 
 def citizen_menu(citizen):
     while True:
-        print(f"\\n--- Citizen Menu ({citizen['name']}) ---")
-        print("1.View Current Air Quality (your region)")
-        print("2.Search Historical AQI Data")
-        print("3.View Pollution Trends (text)")
-        print("4.Access Health Guidelines")
-        print("5.Manage Profile")
-        print("6.Logout")
+        print(f"--- Citizen Menu ({citizen['name']}) ---\n")
+        print("1.View Current Air Quality (your region)\n")
+        print("2.Search Historical AQI Data\n")
+        print("3.View Pollution Trends (text)\n")
+        print("4.Access Health Guidelines\n")
+        print("5.Manage Profile\n")
+        print("6.Logout\n")
         ch = input("Choice: ").strip()
         if ch == "1":
             view_current_aqi(citizen)
@@ -392,7 +392,7 @@ def search_historical_data():
     if not air:
         print("No air quality data available.")
         return
-    print("Search by:\\n1.Date\\n2.Region\\n3.Pollutant\\n4.All Regions (latest AQI per region)\\n5.Back")
+    print("Search by:1.Date\n2.Region\n3.Pollutant\n4.All Regions (latest AQI per region)\n5.Back")
     ch = input("Choice: ").strip()
     results = []
     if ch == "1":
