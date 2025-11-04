@@ -1,0 +1,22 @@
+[
+    {
+        "record_id": 1,
+        "region": "Delhi",
+        "date": "2025-11-04",
+        "AQI": 300,
+        "pollutants": [
+            "isocynide"
+        ],
+        "health_risk": "death"
+    },
+    {
+        "record_id": 1,
+        "region": "Delhi",
+        "date": "2025-11-04",
+        "AQI": 300,
+        "pollutants": [
+            "isocynide"
+        ],
+        "health_risk": "death"
+    }
+]
