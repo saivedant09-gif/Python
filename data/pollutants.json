@@ -1,0 +1,38 @@
+[
+  {
+    "pollutant_id": "pol_pm25",
+    "name": "PM2.5",
+    "description": "Fine particulate matter (\u00b5g/m\u00b3)",
+    "safe_limit": 60
+  },
+  {
+    "pollutant_id": "pol_pm10",
+    "name": "PM10",
+    "description": "Coarse particulate matter (\u00b5g/m\u00b3)",
+    "safe_limit": 100
+  },
+  {
+    "pollutant_id": "pol_no2",
+    "name": "NO2",
+    "description": "Nitrogen dioxide (\u00b5g/m\u00b3)",
+    "safe_limit": 80
+  },
+  {
+    "pollutant_id": "pol_co",
+    "name": "CO",
+    "description": "Carbon monoxide (mg/m\u00b3)",
+    "safe_limit": 10
+  },
+  {
+    "pollutant_id": "pol_o3",
+    "name": "O3",
+    "description": "Ozone (\u00b5g/m\u00b3)",
+    "safe_limit": 120
+  },
+  {
+    "pollutant_id": "pol_so2",
+    "name": "SO2",
+    "description": "Sulfur dioxide (\u00b5g/m\u00b3)",
+    "safe_limit": 80
+  }
+]

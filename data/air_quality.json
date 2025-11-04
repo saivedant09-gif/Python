@@ -1,0 +1,4502 @@
+[
+  {
+    "record_id": "rec_del_1",
+    "region": "Delhi",
+    "date": "2025-01-01",
+    "AQI": 377,
+    "pollutants": {
+      "PM2.5": 138.3,
+      "PM10": 318.5,
+      "NO2": 37.3,
+      "CO": 3.28,
+      "O3": 45.9,
+      "SO2": 114.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_2",
+    "region": "Delhi",
+    "date": "2025-01-02",
+    "AQI": 329,
+    "pollutants": {
+      "PM2.5": 115.9,
+      "PM10": 214.9,
+      "NO2": 18.4,
+      "CO": 4.11,
+      "O3": 132.8,
+      "SO2": 11.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_3",
+    "region": "Delhi",
+    "date": "2025-01-03",
+    "AQI": 151,
+    "pollutants": {
+      "PM2.5": 110.2,
+      "PM10": 123.9,
+      "NO2": 20.2,
+      "CO": 3.56,
+      "O3": 37.0,
+      "SO2": 53.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_4",
+    "region": "Delhi",
+    "date": "2025-01-04",
+    "AQI": 131,
+    "pollutants": {
+      "PM2.5": 94.2,
+      "PM10": 79.1,
+      "NO2": 10.6,
+      "CO": 6.28,
+      "O3": 37.4,
+      "SO2": 7.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_5",
+    "region": "Delhi",
+    "date": "2025-01-05",
+    "AQI": 99,
+    "pollutants": {
+      "PM2.5": 51.0,
+      "PM10": 60.0,
+      "NO2": 10.2,
+      "CO": 0.4,
+      "O3": 36.8,
+      "SO2": 7.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_6",
+    "region": "Delhi",
+    "date": "2025-01-06",
+    "AQI": 243,
+    "pollutants": {
+      "PM2.5": 84.4,
+      "PM10": 139.9,
+      "NO2": 42.7,
+      "CO": 10.81,
+      "O3": 73.7,
+      "SO2": 23.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_7",
+    "region": "Delhi",
+    "date": "2025-01-07",
+    "AQI": 85,
+    "pollutants": {
+      "PM2.5": 27.8,
+      "PM10": 45.6,
+      "NO2": 9.2,
+      "CO": 0.5,
+      "O3": 18.1,
+      "SO2": 5.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_8",
+    "region": "Delhi",
+    "date": "2025-01-08",
+    "AQI": 192,
+    "pollutants": {
+      "PM2.5": 109.8,
+      "PM10": 172.9,
+      "NO2": 15.8,
+      "CO": 3.66,
+      "O3": 99.7,
+      "SO2": 55.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_9",
+    "region": "Delhi",
+    "date": "2025-01-09",
+    "AQI": 399,
+    "pollutants": {
+      "PM2.5": 274.8,
+      "PM10": 305.4,
+      "NO2": 33.6,
+      "CO": 14.76,
+      "O3": 65.6,
+      "SO2": 66.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_10",
+    "region": "Delhi",
+    "date": "2025-01-10",
+    "AQI": 377,
+    "pollutants": {
+      "PM2.5": 268.8,
+      "PM10": 200.5,
+      "NO2": 43.3,
+      "CO": 14.66,
+      "O3": 33.6,
+      "SO2": 125.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_11",
+    "region": "Delhi",
+    "date": "2025-01-11",
+    "AQI": 211,
+    "pollutants": {
+      "PM2.5": 114.1,
+      "PM10": 92.8,
+      "NO2": 49.1,
+      "CO": 6.17,
+      "O3": 116.6,
+      "SO2": 22.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_12",
+    "region": "Delhi",
+    "date": "2025-01-12",
+    "AQI": 305,
+    "pollutants": {
+      "PM2.5": 163.9,
+      "PM10": 289.4,
+      "NO2": 43.2,
+      "CO": 4.49,
+      "O3": 67.9,
+      "SO2": 71.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_13",
+    "region": "Delhi",
+    "date": "2025-01-13",
+    "AQI": 184,
+    "pollutants": {
+      "PM2.5": 137.7,
+      "PM10": 120.9,
+      "NO2": 30.7,
+      "CO": 3.57,
+      "O3": 137.7,
+      "SO2": 14.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_14",
+    "region": "Delhi",
+    "date": "2025-01-14",
+    "AQI": 302,
+    "pollutants": {
+      "PM2.5": 107.1,
+      "PM10": 129.3,
+      "NO2": 21.7,
+      "CO": 9.7,
+      "O3": 182.5,
+      "SO2": 55.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_del_15",
+    "region": "Delhi",
+    "date": "2025-01-15",
+    "AQI": 82,
+    "pollutants": {
+      "PM2.5": 43.5,
+      "PM10": 62.1,
+      "NO2": 11.8,
+      "CO": 1.15,
+      "O3": 35.9,
+      "SO2": 31.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_1",
+    "region": "Mumbai",
+    "date": "2025-01-01",
+    "AQI": 398,
+    "pollutants": {
+      "PM2.5": 291.5,
+      "PM10": 322.0,
+      "NO2": 62.6,
+      "CO": 5.89,
+      "O3": 198.5,
+      "SO2": 26.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_2",
+    "region": "Mumbai",
+    "date": "2025-01-02",
+    "AQI": 272,
+    "pollutants": {
+      "PM2.5": 107.4,
+      "PM10": 109.3,
+      "NO2": 52.9,
+      "CO": 9.94,
+      "O3": 198.6,
+      "SO2": 84.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_3",
+    "region": "Mumbai",
+    "date": "2025-01-03",
+    "AQI": 309,
+    "pollutants": {
+      "PM2.5": 261.9,
+      "PM10": 285.0,
+      "NO2": 33.9,
+      "CO": 10.09,
+      "O3": 147.2,
+      "SO2": 25.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_4",
+    "region": "Mumbai",
+    "date": "2025-01-04",
+    "AQI": 132,
+    "pollutants": {
+      "PM2.5": 82.3,
+      "PM10": 114.5,
+      "NO2": 20.6,
+      "CO": 0.27,
+      "O3": 36.6,
+      "SO2": 4.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_5",
+    "region": "Mumbai",
+    "date": "2025-01-05",
+    "AQI": 235,
+    "pollutants": {
+      "PM2.5": 194.4,
+      "PM10": 211.3,
+      "NO2": 26.2,
+      "CO": 1.12,
+      "O3": 156.2,
+      "SO2": 89.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_6",
+    "region": "Mumbai",
+    "date": "2025-01-06",
+    "AQI": 93,
+    "pollutants": {
+      "PM2.5": 68.7,
+      "PM10": 82.7,
+      "NO2": 22.8,
+      "CO": 2.56,
+      "O3": 12.8,
+      "SO2": 25.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_7",
+    "region": "Mumbai",
+    "date": "2025-01-07",
+    "AQI": 331,
+    "pollutants": {
+      "PM2.5": 132.1,
+      "PM10": 237.2,
+      "NO2": 56.7,
+      "CO": 15.98,
+      "O3": 231.8,
+      "SO2": 102.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_8",
+    "region": "Mumbai",
+    "date": "2025-01-08",
+    "AQI": 152,
+    "pollutants": {
+      "PM2.5": 110.6,
+      "PM10": 97.2,
+      "NO2": 28.0,
+      "CO": 3.03,
+      "O3": 103.3,
+      "SO2": 29.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_9",
+    "region": "Mumbai",
+    "date": "2025-01-09",
+    "AQI": 176,
+    "pollutants": {
+      "PM2.5": 76.5,
+      "PM10": 106.1,
+      "NO2": 29.5,
+      "CO": 2.3,
+      "O3": 35.9,
+      "SO2": 9.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_10",
+    "region": "Mumbai",
+    "date": "2025-01-10",
+    "AQI": 373,
+    "pollutants": {
+      "PM2.5": 125.1,
+      "PM10": 164.3,
+      "NO2": 21.0,
+      "CO": 6.66,
+      "O3": 152.9,
+      "SO2": 48.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_11",
+    "region": "Mumbai",
+    "date": "2025-01-11",
+    "AQI": 298,
+    "pollutants": {
+      "PM2.5": 127.7,
+      "PM10": 142.9,
+      "NO2": 70.7,
+      "CO": 8.76,
+      "O3": 113.5,
+      "SO2": 95.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_12",
+    "region": "Mumbai",
+    "date": "2025-01-12",
+    "AQI": 258,
+    "pollutants": {
+      "PM2.5": 106.9,
+      "PM10": 118.2,
+      "NO2": 35.1,
+      "CO": 5.76,
+      "O3": 97.2,
+      "SO2": 77.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_13",
+    "region": "Mumbai",
+    "date": "2025-01-13",
+    "AQI": 394,
+    "pollutants": {
+      "PM2.5": 272.7,
+      "PM10": 310.4,
+      "NO2": 24.5,
+      "CO": 14.56,
+      "O3": 240.5,
+      "SO2": 26.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_14",
+    "region": "Mumbai",
+    "date": "2025-01-14",
+    "AQI": 148,
+    "pollutants": {
+      "PM2.5": 61.3,
+      "PM10": 99.0,
+      "NO2": 19.9,
+      "CO": 2.27,
+      "O3": 33.3,
+      "SO2": 54.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_mum_15",
+    "region": "Mumbai",
+    "date": "2025-01-15",
+    "AQI": 276,
+    "pollutants": {
+      "PM2.5": 216.6,
+      "PM10": 252.1,
+      "NO2": 19.2,
+      "CO": 9.19,
+      "O3": 118.2,
+      "SO2": 8.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_1",
+    "region": "Kolkata",
+    "date": "2025-01-01",
+    "AQI": 97,
+    "pollutants": {
+      "PM2.5": 83.0,
+      "PM10": 88.2,
+      "NO2": 8.1,
+      "CO": 2.46,
+      "O3": 19.4,
+      "SO2": 17.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_2",
+    "region": "Kolkata",
+    "date": "2025-01-02",
+    "AQI": 80,
+    "pollutants": {
+      "PM2.5": 31.9,
+      "PM10": 32.1,
+      "NO2": 10.2,
+      "CO": 3.72,
+      "O3": 48.0,
+      "SO2": 10.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_3",
+    "region": "Kolkata",
+    "date": "2025-01-03",
+    "AQI": 334,
+    "pollutants": {
+      "PM2.5": 232.8,
+      "PM10": 231.1,
+      "NO2": 29.4,
+      "CO": 4.16,
+      "O3": 30.4,
+      "SO2": 100.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_4",
+    "region": "Kolkata",
+    "date": "2025-01-04",
+    "AQI": 81,
+    "pollutants": {
+      "PM2.5": 60.7,
+      "PM10": 35.2,
+      "NO2": 13.5,
+      "CO": 2.12,
+      "O3": 52.4,
+      "SO2": 6.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_5",
+    "region": "Kolkata",
+    "date": "2025-01-05",
+    "AQI": 310,
+    "pollutants": {
+      "PM2.5": 107.9,
+      "PM10": 158.6,
+      "NO2": 52.4,
+      "CO": 10.67,
+      "O3": 66.5,
+      "SO2": 21.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_6",
+    "region": "Kolkata",
+    "date": "2025-01-06",
+    "AQI": 341,
+    "pollutants": {
+      "PM2.5": 152.7,
+      "PM10": 258.0,
+      "NO2": 59.3,
+      "CO": 7.54,
+      "O3": 156.4,
+      "SO2": 75.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_7",
+    "region": "Kolkata",
+    "date": "2025-01-07",
+    "AQI": 183,
+    "pollutants": {
+      "PM2.5": 77.3,
+      "PM10": 151.8,
+      "NO2": 17.9,
+      "CO": 3.84,
+      "O3": 95.2,
+      "SO2": 25.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_8",
+    "region": "Kolkata",
+    "date": "2025-01-08",
+    "AQI": 211,
+    "pollutants": {
+      "PM2.5": 180.9,
+      "PM10": 202.9,
+      "NO2": 10.9,
+      "CO": 6.71,
+      "O3": 93.7,
+      "SO2": 13.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_9",
+    "region": "Kolkata",
+    "date": "2025-01-09",
+    "AQI": 325,
+    "pollutants": {
+      "PM2.5": 139.1,
+      "PM10": 181.7,
+      "NO2": 76.9,
+      "CO": 14.39,
+      "O3": 216.3,
+      "SO2": 53.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_10",
+    "region": "Kolkata",
+    "date": "2025-01-10",
+    "AQI": 130,
+    "pollutants": {
+      "PM2.5": 73.2,
+      "PM10": 94.4,
+      "NO2": 14.4,
+      "CO": 6.4,
+      "O3": 79.9,
+      "SO2": 29.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_11",
+    "region": "Kolkata",
+    "date": "2025-01-11",
+    "AQI": 391,
+    "pollutants": {
+      "PM2.5": 309.0,
+      "PM10": 226.6,
+      "NO2": 71.4,
+      "CO": 18.4,
+      "O3": 56.3,
+      "SO2": 26.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_12",
+    "region": "Kolkata",
+    "date": "2025-01-12",
+    "AQI": 104,
+    "pollutants": {
+      "PM2.5": 77.5,
+      "PM10": 51.3,
+      "NO2": 11.1,
+      "CO": 1.26,
+      "O3": 30.2,
+      "SO2": 29.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_13",
+    "region": "Kolkata",
+    "date": "2025-01-13",
+    "AQI": 185,
+    "pollutants": {
+      "PM2.5": 111.6,
+      "PM10": 101.9,
+      "NO2": 42.9,
+      "CO": 0.82,
+      "O3": 91.4,
+      "SO2": 62.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_14",
+    "region": "Kolkata",
+    "date": "2025-01-14",
+    "AQI": 72,
+    "pollutants": {
+      "PM2.5": 21.8,
+      "PM10": 62.1,
+      "NO2": 12.8,
+      "CO": 1.05,
+      "O3": 41.0,
+      "SO2": 16.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kol_15",
+    "region": "Kolkata",
+    "date": "2025-01-15",
+    "AQI": 268,
+    "pollutants": {
+      "PM2.5": 170.6,
+      "PM10": 125.2,
+      "NO2": 64.1,
+      "CO": 9.43,
+      "O3": 41.4,
+      "SO2": 10.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_1",
+    "region": "Chennai",
+    "date": "2025-01-01",
+    "AQI": 239,
+    "pollutants": {
+      "PM2.5": 155.2,
+      "PM10": 116.8,
+      "NO2": 18.0,
+      "CO": 4.01,
+      "O3": 162.3,
+      "SO2": 77.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_2",
+    "region": "Chennai",
+    "date": "2025-01-02",
+    "AQI": 70,
+    "pollutants": {
+      "PM2.5": 58.8,
+      "PM10": 36.8,
+      "NO2": 7.0,
+      "CO": 0.49,
+      "O3": 41.7,
+      "SO2": 25.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_3",
+    "region": "Chennai",
+    "date": "2025-01-03",
+    "AQI": 258,
+    "pollutants": {
+      "PM2.5": 228.1,
+      "PM10": 219.2,
+      "NO2": 60.7,
+      "CO": 3.45,
+      "O3": 42.2,
+      "SO2": 83.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_4",
+    "region": "Chennai",
+    "date": "2025-01-04",
+    "AQI": 140,
+    "pollutants": {
+      "PM2.5": 116.0,
+      "PM10": 58.1,
+      "NO2": 27.6,
+      "CO": 2.51,
+      "O3": 98.2,
+      "SO2": 45.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_5",
+    "region": "Chennai",
+    "date": "2025-01-05",
+    "AQI": 177,
+    "pollutants": {
+      "PM2.5": 81.4,
+      "PM10": 154.4,
+      "NO2": 12.7,
+      "CO": 7.76,
+      "O3": 115.2,
+      "SO2": 19.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_6",
+    "region": "Chennai",
+    "date": "2025-01-06",
+    "AQI": 285,
+    "pollutants": {
+      "PM2.5": 145.3,
+      "PM10": 254.3,
+      "NO2": 63.9,
+      "CO": 3.62,
+      "O3": 145.9,
+      "SO2": 49.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_7",
+    "region": "Chennai",
+    "date": "2025-01-07",
+    "AQI": 192,
+    "pollutants": {
+      "PM2.5": 157.2,
+      "PM10": 188.2,
+      "NO2": 20.3,
+      "CO": 6.3,
+      "O3": 63.3,
+      "SO2": 75.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_8",
+    "region": "Chennai",
+    "date": "2025-01-08",
+    "AQI": 324,
+    "pollutants": {
+      "PM2.5": 161.6,
+      "PM10": 135.0,
+      "NO2": 73.0,
+      "CO": 4.71,
+      "O3": 147.9,
+      "SO2": 127.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_9",
+    "region": "Chennai",
+    "date": "2025-01-09",
+    "AQI": 69,
+    "pollutants": {
+      "PM2.5": 25.2,
+      "PM10": 45.6,
+      "NO2": 13.5,
+      "CO": 1.18,
+      "O3": 32.7,
+      "SO2": 15.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_10",
+    "region": "Chennai",
+    "date": "2025-01-10",
+    "AQI": 247,
+    "pollutants": {
+      "PM2.5": 207.4,
+      "PM10": 127.0,
+      "NO2": 14.5,
+      "CO": 5.66,
+      "O3": 102.2,
+      "SO2": 80.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_11",
+    "region": "Chennai",
+    "date": "2025-01-11",
+    "AQI": 393,
+    "pollutants": {
+      "PM2.5": 164.4,
+      "PM10": 258.9,
+      "NO2": 94.2,
+      "CO": 18.16,
+      "O3": 191.1,
+      "SO2": 107.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_12",
+    "region": "Chennai",
+    "date": "2025-01-12",
+    "AQI": 113,
+    "pollutants": {
+      "PM2.5": 82.7,
+      "PM10": 65.6,
+      "NO2": 12.6,
+      "CO": 2.44,
+      "O3": 37.5,
+      "SO2": 15.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_13",
+    "region": "Chennai",
+    "date": "2025-01-13",
+    "AQI": 115,
+    "pollutants": {
+      "PM2.5": 47.7,
+      "PM10": 91.9,
+      "NO2": 14.5,
+      "CO": 4.36,
+      "O3": 19.8,
+      "SO2": 27.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_14",
+    "region": "Chennai",
+    "date": "2025-01-14",
+    "AQI": 257,
+    "pollutants": {
+      "PM2.5": 161.6,
+      "PM10": 102.9,
+      "NO2": 27.6,
+      "CO": 5.82,
+      "O3": 117.2,
+      "SO2": 69.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_che_15",
+    "region": "Chennai",
+    "date": "2025-01-15",
+    "AQI": 288,
+    "pollutants": {
+      "PM2.5": 162.7,
+      "PM10": 231.9,
+      "NO2": 43.8,
+      "CO": 11.55,
+      "O3": 207.9,
+      "SO2": 86.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_1",
+    "region": "Bengaluru",
+    "date": "2025-01-01",
+    "AQI": 387,
+    "pollutants": {
+      "PM2.5": 135.8,
+      "PM10": 274.5,
+      "NO2": 68.3,
+      "CO": 7.0,
+      "O3": 241.1,
+      "SO2": 118.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_2",
+    "region": "Bengaluru",
+    "date": "2025-01-02",
+    "AQI": 394,
+    "pollutants": {
+      "PM2.5": 191.6,
+      "PM10": 348.3,
+      "NO2": 31.3,
+      "CO": 1.66,
+      "O3": 291.1,
+      "SO2": 100.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_3",
+    "region": "Bengaluru",
+    "date": "2025-01-03",
+    "AQI": 87,
+    "pollutants": {
+      "PM2.5": 49.9,
+      "PM10": 81.1,
+      "NO2": 14.4,
+      "CO": 3.17,
+      "O3": 27.7,
+      "SO2": 15.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_4",
+    "region": "Bengaluru",
+    "date": "2025-01-04",
+    "AQI": 125,
+    "pollutants": {
+      "PM2.5": 86.7,
+      "PM10": 50.4,
+      "NO2": 25.0,
+      "CO": 4.87,
+      "O3": 15.6,
+      "SO2": 23.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_5",
+    "region": "Bengaluru",
+    "date": "2025-01-05",
+    "AQI": 140,
+    "pollutants": {
+      "PM2.5": 109.5,
+      "PM10": 114.5,
+      "NO2": 20.0,
+      "CO": 4.03,
+      "O3": 96.9,
+      "SO2": 9.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_6",
+    "region": "Bengaluru",
+    "date": "2025-01-06",
+    "AQI": 118,
+    "pollutants": {
+      "PM2.5": 92.1,
+      "PM10": 94.5,
+      "NO2": 29.2,
+      "CO": 3.61,
+      "O3": 84.4,
+      "SO2": 42.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_7",
+    "region": "Bengaluru",
+    "date": "2025-01-07",
+    "AQI": 363,
+    "pollutants": {
+      "PM2.5": 286.4,
+      "PM10": 339.5,
+      "NO2": 49.1,
+      "CO": 16.53,
+      "O3": 131.5,
+      "SO2": 30.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_8",
+    "region": "Bengaluru",
+    "date": "2025-01-08",
+    "AQI": 293,
+    "pollutants": {
+      "PM2.5": 167.0,
+      "PM10": 249.4,
+      "NO2": 63.9,
+      "CO": 4.49,
+      "O3": 174.2,
+      "SO2": 60.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_9",
+    "region": "Bengaluru",
+    "date": "2025-01-09",
+    "AQI": 172,
+    "pollutants": {
+      "PM2.5": 79.9,
+      "PM10": 76.8,
+      "NO2": 18.4,
+      "CO": 2.59,
+      "O3": 47.1,
+      "SO2": 39.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_10",
+    "region": "Bengaluru",
+    "date": "2025-01-10",
+    "AQI": 120,
+    "pollutants": {
+      "PM2.5": 46.9,
+      "PM10": 75.6,
+      "NO2": 9.7,
+      "CO": 1.47,
+      "O3": 40.8,
+      "SO2": 17.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_11",
+    "region": "Bengaluru",
+    "date": "2025-01-11",
+    "AQI": 288,
+    "pollutants": {
+      "PM2.5": 158.2,
+      "PM10": 150.9,
+      "NO2": 38.6,
+      "CO": 13.08,
+      "O3": 132.2,
+      "SO2": 82.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_12",
+    "region": "Bengaluru",
+    "date": "2025-01-12",
+    "AQI": 344,
+    "pollutants": {
+      "PM2.5": 181.7,
+      "PM10": 138.8,
+      "NO2": 41.4,
+      "CO": 13.13,
+      "O3": 222.7,
+      "SO2": 131.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_13",
+    "region": "Bengaluru",
+    "date": "2025-01-13",
+    "AQI": 264,
+    "pollutants": {
+      "PM2.5": 164.5,
+      "PM10": 222.0,
+      "NO2": 55.4,
+      "CO": 11.91,
+      "O3": 103.4,
+      "SO2": 33.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_14",
+    "region": "Bengaluru",
+    "date": "2025-01-14",
+    "AQI": 298,
+    "pollutants": {
+      "PM2.5": 94.6,
+      "PM10": 179.3,
+      "NO2": 55.4,
+      "CO": 6.38,
+      "O3": 49.3,
+      "SO2": 59.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ben_15",
+    "region": "Bengaluru",
+    "date": "2025-01-15",
+    "AQI": 115,
+    "pollutants": {
+      "PM2.5": 102.2,
+      "PM10": 82.9,
+      "NO2": 26.6,
+      "CO": 3.5,
+      "O3": 59.1,
+      "SO2": 6.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_1",
+    "region": "Hyderabad",
+    "date": "2025-01-01",
+    "AQI": 269,
+    "pollutants": {
+      "PM2.5": 102.6,
+      "PM10": 182.1,
+      "NO2": 16.2,
+      "CO": 5.43,
+      "O3": 53.3,
+      "SO2": 39.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_2",
+    "region": "Hyderabad",
+    "date": "2025-01-02",
+    "AQI": 244,
+    "pollutants": {
+      "PM2.5": 113.9,
+      "PM10": 236.9,
+      "NO2": 32.8,
+      "CO": 10.27,
+      "O3": 92.5,
+      "SO2": 74.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_3",
+    "region": "Hyderabad",
+    "date": "2025-01-03",
+    "AQI": 76,
+    "pollutants": {
+      "PM2.5": 68.4,
+      "PM10": 46.4,
+      "NO2": 13.7,
+      "CO": 3.0,
+      "O3": 38.5,
+      "SO2": 23.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_4",
+    "region": "Hyderabad",
+    "date": "2025-01-04",
+    "AQI": 176,
+    "pollutants": {
+      "PM2.5": 73.9,
+      "PM10": 72.6,
+      "NO2": 14.2,
+      "CO": 1.42,
+      "O3": 91.3,
+      "SO2": 41.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_5",
+    "region": "Hyderabad",
+    "date": "2025-01-05",
+    "AQI": 161,
+    "pollutants": {
+      "PM2.5": 93.2,
+      "PM10": 89.2,
+      "NO2": 19.9,
+      "CO": 5.0,
+      "O3": 116.7,
+      "SO2": 47.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_6",
+    "region": "Hyderabad",
+    "date": "2025-01-06",
+    "AQI": 133,
+    "pollutants": {
+      "PM2.5": 116.9,
+      "PM10": 61.8,
+      "NO2": 7.3,
+      "CO": 2.26,
+      "O3": 69.7,
+      "SO2": 51.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_7",
+    "region": "Hyderabad",
+    "date": "2025-01-07",
+    "AQI": 253,
+    "pollutants": {
+      "PM2.5": 218.8,
+      "PM10": 131.3,
+      "NO2": 42.6,
+      "CO": 10.59,
+      "O3": 55.7,
+      "SO2": 72.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_8",
+    "region": "Hyderabad",
+    "date": "2025-01-08",
+    "AQI": 204,
+    "pollutants": {
+      "PM2.5": 165.3,
+      "PM10": 155.1,
+      "NO2": 15.1,
+      "CO": 10.04,
+      "O3": 122.0,
+      "SO2": 31.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_9",
+    "region": "Hyderabad",
+    "date": "2025-01-09",
+    "AQI": 269,
+    "pollutants": {
+      "PM2.5": 187.5,
+      "PM10": 118.7,
+      "NO2": 48.3,
+      "CO": 0.7,
+      "O3": 92.5,
+      "SO2": 56.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_10",
+    "region": "Hyderabad",
+    "date": "2025-01-10",
+    "AQI": 271,
+    "pollutants": {
+      "PM2.5": 237.5,
+      "PM10": 211.7,
+      "NO2": 58.5,
+      "CO": 9.74,
+      "O3": 96.2,
+      "SO2": 81.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_11",
+    "region": "Hyderabad",
+    "date": "2025-01-11",
+    "AQI": 383,
+    "pollutants": {
+      "PM2.5": 177.0,
+      "PM10": 338.9,
+      "NO2": 60.4,
+      "CO": 9.65,
+      "O3": 135.9,
+      "SO2": 114.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_12",
+    "region": "Hyderabad",
+    "date": "2025-01-12",
+    "AQI": 187,
+    "pollutants": {
+      "PM2.5": 92.3,
+      "PM10": 102.3,
+      "NO2": 44.3,
+      "CO": 2.88,
+      "O3": 68.4,
+      "SO2": 57.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_13",
+    "region": "Hyderabad",
+    "date": "2025-01-13",
+    "AQI": 341,
+    "pollutants": {
+      "PM2.5": 227.2,
+      "PM10": 213.9,
+      "NO2": 19.0,
+      "CO": 14.61,
+      "O3": 60.5,
+      "SO2": 35.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_14",
+    "region": "Hyderabad",
+    "date": "2025-01-14",
+    "AQI": 182,
+    "pollutants": {
+      "PM2.5": 91.8,
+      "PM10": 168.9,
+      "NO2": 34.6,
+      "CO": 2.78,
+      "O3": 10.4,
+      "SO2": 69.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_hyd_15",
+    "region": "Hyderabad",
+    "date": "2025-01-15",
+    "AQI": 93,
+    "pollutants": {
+      "PM2.5": 41.4,
+      "PM10": 59.9,
+      "NO2": 15.0,
+      "CO": 1.26,
+      "O3": 35.6,
+      "SO2": 27.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_1",
+    "region": "Ahmedabad",
+    "date": "2025-01-01",
+    "AQI": 279,
+    "pollutants": {
+      "PM2.5": 216.4,
+      "PM10": 127.2,
+      "NO2": 26.3,
+      "CO": 9.82,
+      "O3": 73.8,
+      "SO2": 67.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_2",
+    "region": "Ahmedabad",
+    "date": "2025-01-02",
+    "AQI": 292,
+    "pollutants": {
+      "PM2.5": 184.6,
+      "PM10": 177.0,
+      "NO2": 72.8,
+      "CO": 8.3,
+      "O3": 86.5,
+      "SO2": 57.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_3",
+    "region": "Ahmedabad",
+    "date": "2025-01-03",
+    "AQI": 206,
+    "pollutants": {
+      "PM2.5": 92.9,
+      "PM10": 97.3,
+      "NO2": 18.2,
+      "CO": 1.59,
+      "O3": 87.6,
+      "SO2": 64.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_4",
+    "region": "Ahmedabad",
+    "date": "2025-01-04",
+    "AQI": 144,
+    "pollutants": {
+      "PM2.5": 59.7,
+      "PM10": 121.4,
+      "NO2": 15.2,
+      "CO": 4.36,
+      "O3": 83.8,
+      "SO2": 35.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_5",
+    "region": "Ahmedabad",
+    "date": "2025-01-05",
+    "AQI": 101,
+    "pollutants": {
+      "PM2.5": 80.8,
+      "PM10": 58.4,
+      "NO2": 12.3,
+      "CO": 1.67,
+      "O3": 55.1,
+      "SO2": 7.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_6",
+    "region": "Ahmedabad",
+    "date": "2025-01-06",
+    "AQI": 73,
+    "pollutants": {
+      "PM2.5": 64.6,
+      "PM10": 53.4,
+      "NO2": 13.8,
+      "CO": 0.59,
+      "O3": 48.0,
+      "SO2": 15.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_7",
+    "region": "Ahmedabad",
+    "date": "2025-01-07",
+    "AQI": 56,
+    "pollutants": {
+      "PM2.5": 36.1,
+      "PM10": 38.2,
+      "NO2": 7.7,
+      "CO": 0.61,
+      "O3": 4.8,
+      "SO2": 21.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_8",
+    "region": "Ahmedabad",
+    "date": "2025-01-08",
+    "AQI": 294,
+    "pollutants": {
+      "PM2.5": 108.3,
+      "PM10": 129.1,
+      "NO2": 43.6,
+      "CO": 8.73,
+      "O3": 156.0,
+      "SO2": 24.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_9",
+    "region": "Ahmedabad",
+    "date": "2025-01-09",
+    "AQI": 338,
+    "pollutants": {
+      "PM2.5": 293.9,
+      "PM10": 152.5,
+      "NO2": 33.7,
+      "CO": 9.73,
+      "O3": 115.4,
+      "SO2": 84.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_10",
+    "region": "Ahmedabad",
+    "date": "2025-01-10",
+    "AQI": 366,
+    "pollutants": {
+      "PM2.5": 159.4,
+      "PM10": 261.2,
+      "NO2": 51.3,
+      "CO": 8.51,
+      "O3": 238.7,
+      "SO2": 145.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_11",
+    "region": "Ahmedabad",
+    "date": "2025-01-11",
+    "AQI": 206,
+    "pollutants": {
+      "PM2.5": 132.1,
+      "PM10": 89.8,
+      "NO2": 49.9,
+      "CO": 1.39,
+      "O3": 120.3,
+      "SO2": 53.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_12",
+    "region": "Ahmedabad",
+    "date": "2025-01-12",
+    "AQI": 185,
+    "pollutants": {
+      "PM2.5": 128.8,
+      "PM10": 91.4,
+      "NO2": 15.7,
+      "CO": 1.04,
+      "O3": 9.6,
+      "SO2": 35.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_13",
+    "region": "Ahmedabad",
+    "date": "2025-01-13",
+    "AQI": 354,
+    "pollutants": {
+      "PM2.5": 206.0,
+      "PM10": 148.5,
+      "NO2": 38.1,
+      "CO": 5.51,
+      "O3": 230.7,
+      "SO2": 18.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_14",
+    "region": "Ahmedabad",
+    "date": "2025-01-14",
+    "AQI": 169,
+    "pollutants": {
+      "PM2.5": 144.4,
+      "PM10": 147.5,
+      "NO2": 29.6,
+      "CO": 5.7,
+      "O3": 118.9,
+      "SO2": 31.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ahm_15",
+    "region": "Ahmedabad",
+    "date": "2025-01-15",
+    "AQI": 328,
+    "pollutants": {
+      "PM2.5": 142.6,
+      "PM10": 160.5,
+      "NO2": 33.8,
+      "CO": 2.9,
+      "O3": 30.1,
+      "SO2": 105.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_1",
+    "region": "Pune",
+    "date": "2025-01-01",
+    "AQI": 354,
+    "pollutants": {
+      "PM2.5": 265.3,
+      "PM10": 262.5,
+      "NO2": 38.1,
+      "CO": 2.82,
+      "O3": 188.4,
+      "SO2": 101.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_2",
+    "region": "Pune",
+    "date": "2025-01-02",
+    "AQI": 189,
+    "pollutants": {
+      "PM2.5": 113.5,
+      "PM10": 131.6,
+      "NO2": 12.5,
+      "CO": 0.74,
+      "O3": 66.6,
+      "SO2": 27.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_3",
+    "region": "Pune",
+    "date": "2025-01-03",
+    "AQI": 178,
+    "pollutants": {
+      "PM2.5": 56.2,
+      "PM10": 95.6,
+      "NO2": 32.9,
+      "CO": 7.71,
+      "O3": 82.1,
+      "SO2": 5.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_4",
+    "region": "Pune",
+    "date": "2025-01-04",
+    "AQI": 394,
+    "pollutants": {
+      "PM2.5": 312.4,
+      "PM10": 293.8,
+      "NO2": 79.8,
+      "CO": 4.1,
+      "O3": 162.8,
+      "SO2": 75.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_5",
+    "region": "Pune",
+    "date": "2025-01-05",
+    "AQI": 192,
+    "pollutants": {
+      "PM2.5": 78.5,
+      "PM10": 144.2,
+      "NO2": 34.0,
+      "CO": 4.92,
+      "O3": 21.9,
+      "SO2": 29.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_6",
+    "region": "Pune",
+    "date": "2025-01-06",
+    "AQI": 220,
+    "pollutants": {
+      "PM2.5": 108.4,
+      "PM10": 101.8,
+      "NO2": 18.1,
+      "CO": 4.79,
+      "O3": 87.3,
+      "SO2": 60.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_7",
+    "region": "Pune",
+    "date": "2025-01-07",
+    "AQI": 255,
+    "pollutants": {
+      "PM2.5": 201.0,
+      "PM10": 186.2,
+      "NO2": 35.9,
+      "CO": 4.36,
+      "O3": 70.5,
+      "SO2": 99.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_8",
+    "region": "Pune",
+    "date": "2025-01-08",
+    "AQI": 256,
+    "pollutants": {
+      "PM2.5": 209.7,
+      "PM10": 229.1,
+      "NO2": 12.9,
+      "CO": 11.19,
+      "O3": 95.6,
+      "SO2": 11.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_9",
+    "region": "Pune",
+    "date": "2025-01-09",
+    "AQI": 315,
+    "pollutants": {
+      "PM2.5": 162.9,
+      "PM10": 269.0,
+      "NO2": 55.2,
+      "CO": 12.12,
+      "O3": 60.6,
+      "SO2": 72.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_10",
+    "region": "Pune",
+    "date": "2025-01-10",
+    "AQI": 197,
+    "pollutants": {
+      "PM2.5": 110.9,
+      "PM10": 161.3,
+      "NO2": 14.6,
+      "CO": 9.6,
+      "O3": 93.8,
+      "SO2": 22.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_11",
+    "region": "Pune",
+    "date": "2025-01-11",
+    "AQI": 131,
+    "pollutants": {
+      "PM2.5": 63.7,
+      "PM10": 53.5,
+      "NO2": 17.2,
+      "CO": 1.67,
+      "O3": 83.7,
+      "SO2": 8.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_12",
+    "region": "Pune",
+    "date": "2025-01-12",
+    "AQI": 110,
+    "pollutants": {
+      "PM2.5": 75.7,
+      "PM10": 54.2,
+      "NO2": 26.0,
+      "CO": 1.76,
+      "O3": 59.8,
+      "SO2": 19.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_13",
+    "region": "Pune",
+    "date": "2025-01-13",
+    "AQI": 297,
+    "pollutants": {
+      "PM2.5": 263.8,
+      "PM10": 162.2,
+      "NO2": 47.6,
+      "CO": 6.06,
+      "O3": 206.5,
+      "SO2": 64.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_14",
+    "region": "Pune",
+    "date": "2025-01-14",
+    "AQI": 119,
+    "pollutants": {
+      "PM2.5": 97.4,
+      "PM10": 67.3,
+      "NO2": 24.8,
+      "CO": 2.61,
+      "O3": 83.8,
+      "SO2": 25.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_pun_15",
+    "region": "Pune",
+    "date": "2025-01-15",
+    "AQI": 51,
+    "pollutants": {
+      "PM2.5": 24.0,
+      "PM10": 29.5,
+      "NO2": 8.5,
+      "CO": 2.55,
+      "O3": 20.0,
+      "SO2": 4.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_1",
+    "region": "Lucknow",
+    "date": "2025-01-01",
+    "AQI": 325,
+    "pollutants": {
+      "PM2.5": 191.9,
+      "PM10": 194.8,
+      "NO2": 65.8,
+      "CO": 6.53,
+      "O3": 228.5,
+      "SO2": 114.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_2",
+    "region": "Lucknow",
+    "date": "2025-01-02",
+    "AQI": 172,
+    "pollutants": {
+      "PM2.5": 110.6,
+      "PM10": 92.9,
+      "NO2": 35.3,
+      "CO": 0.7,
+      "O3": 98.3,
+      "SO2": 49.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_3",
+    "region": "Lucknow",
+    "date": "2025-01-03",
+    "AQI": 245,
+    "pollutants": {
+      "PM2.5": 130.3,
+      "PM10": 195.6,
+      "NO2": 52.5,
+      "CO": 12.02,
+      "O3": 97.2,
+      "SO2": 9.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_4",
+    "region": "Lucknow",
+    "date": "2025-01-04",
+    "AQI": 307,
+    "pollutants": {
+      "PM2.5": 269.9,
+      "PM10": 184.0,
+      "NO2": 21.5,
+      "CO": 13.07,
+      "O3": 36.8,
+      "SO2": 112.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_5",
+    "region": "Lucknow",
+    "date": "2025-01-05",
+    "AQI": 57,
+    "pollutants": {
+      "PM2.5": 41.8,
+      "PM10": 36.8,
+      "NO2": 10.3,
+      "CO": 0.54,
+      "O3": 21.6,
+      "SO2": 22.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_6",
+    "region": "Lucknow",
+    "date": "2025-01-06",
+    "AQI": 223,
+    "pollutants": {
+      "PM2.5": 150.3,
+      "PM10": 142.4,
+      "NO2": 14.7,
+      "CO": 3.96,
+      "O3": 116.4,
+      "SO2": 50.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_7",
+    "region": "Lucknow",
+    "date": "2025-01-07",
+    "AQI": 212,
+    "pollutants": {
+      "PM2.5": 143.3,
+      "PM10": 197.7,
+      "NO2": 31.3,
+      "CO": 5.93,
+      "O3": 102.2,
+      "SO2": 24.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_8",
+    "region": "Lucknow",
+    "date": "2025-01-08",
+    "AQI": 400,
+    "pollutants": {
+      "PM2.5": 341.0,
+      "PM10": 399.4,
+      "NO2": 79.7,
+      "CO": 9.13,
+      "O3": 47.6,
+      "SO2": 105.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_9",
+    "region": "Lucknow",
+    "date": "2025-01-09",
+    "AQI": 101,
+    "pollutants": {
+      "PM2.5": 57.2,
+      "PM10": 82.5,
+      "NO2": 23.3,
+      "CO": 0.42,
+      "O3": 61.3,
+      "SO2": 13.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_10",
+    "region": "Lucknow",
+    "date": "2025-01-10",
+    "AQI": 241,
+    "pollutants": {
+      "PM2.5": 134.6,
+      "PM10": 131.7,
+      "NO2": 31.9,
+      "CO": 8.37,
+      "O3": 42.4,
+      "SO2": 21.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_11",
+    "region": "Lucknow",
+    "date": "2025-01-11",
+    "AQI": 362,
+    "pollutants": {
+      "PM2.5": 297.7,
+      "PM10": 279.4,
+      "NO2": 35.5,
+      "CO": 16.59,
+      "O3": 54.4,
+      "SO2": 71.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_12",
+    "region": "Lucknow",
+    "date": "2025-01-12",
+    "AQI": 180,
+    "pollutants": {
+      "PM2.5": 103.6,
+      "PM10": 144.0,
+      "NO2": 41.4,
+      "CO": 4.38,
+      "O3": 45.2,
+      "SO2": 41.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_13",
+    "region": "Lucknow",
+    "date": "2025-01-13",
+    "AQI": 87,
+    "pollutants": {
+      "PM2.5": 49.2,
+      "PM10": 52.8,
+      "NO2": 14.6,
+      "CO": 2.84,
+      "O3": 30.2,
+      "SO2": 10.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_14",
+    "region": "Lucknow",
+    "date": "2025-01-14",
+    "AQI": 204,
+    "pollutants": {
+      "PM2.5": 85.6,
+      "PM10": 128.7,
+      "NO2": 29.9,
+      "CO": 2.73,
+      "O3": 91.9,
+      "SO2": 49.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_luc_15",
+    "region": "Lucknow",
+    "date": "2025-01-15",
+    "AQI": 201,
+    "pollutants": {
+      "PM2.5": 62.9,
+      "PM10": 180.5,
+      "NO2": 26.0,
+      "CO": 0.48,
+      "O3": 131.8,
+      "SO2": 63.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_1",
+    "region": "Jaipur",
+    "date": "2025-01-01",
+    "AQI": 75,
+    "pollutants": {
+      "PM2.5": 63.5,
+      "PM10": 63.5,
+      "NO2": 16.2,
+      "CO": 3.4,
+      "O3": 44.5,
+      "SO2": 8.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_2",
+    "region": "Jaipur",
+    "date": "2025-01-02",
+    "AQI": 230,
+    "pollutants": {
+      "PM2.5": 99.2,
+      "PM10": 118.2,
+      "NO2": 23.0,
+      "CO": 8.8,
+      "O3": 135.1,
+      "SO2": 64.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_3",
+    "region": "Jaipur",
+    "date": "2025-01-03",
+    "AQI": 120,
+    "pollutants": {
+      "PM2.5": 81.2,
+      "PM10": 113.0,
+      "NO2": 21.5,
+      "CO": 2.02,
+      "O3": 43.0,
+      "SO2": 29.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_4",
+    "region": "Jaipur",
+    "date": "2025-01-04",
+    "AQI": 117,
+    "pollutants": {
+      "PM2.5": 41.4,
+      "PM10": 67.5,
+      "NO2": 23.3,
+      "CO": 1.22,
+      "O3": 16.7,
+      "SO2": 26.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_5",
+    "region": "Jaipur",
+    "date": "2025-01-05",
+    "AQI": 237,
+    "pollutants": {
+      "PM2.5": 146.6,
+      "PM10": 224.7,
+      "NO2": 51.2,
+      "CO": 3.4,
+      "O3": 148.7,
+      "SO2": 48.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_6",
+    "region": "Jaipur",
+    "date": "2025-01-06",
+    "AQI": 201,
+    "pollutants": {
+      "PM2.5": 150.3,
+      "PM10": 121.2,
+      "NO2": 14.7,
+      "CO": 9.69,
+      "O3": 29.9,
+      "SO2": 77.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_7",
+    "region": "Jaipur",
+    "date": "2025-01-07",
+    "AQI": 396,
+    "pollutants": {
+      "PM2.5": 290.9,
+      "PM10": 391.2,
+      "NO2": 96.4,
+      "CO": 16.09,
+      "O3": 121.2,
+      "SO2": 127.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_8",
+    "region": "Jaipur",
+    "date": "2025-01-08",
+    "AQI": 57,
+    "pollutants": {
+      "PM2.5": 26.1,
+      "PM10": 27.0,
+      "NO2": 7.1,
+      "CO": 2.16,
+      "O3": 13.3,
+      "SO2": 9.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_9",
+    "region": "Jaipur",
+    "date": "2025-01-09",
+    "AQI": 376,
+    "pollutants": {
+      "PM2.5": 324.9,
+      "PM10": 174.8,
+      "NO2": 36.4,
+      "CO": 1.2,
+      "O3": 251.5,
+      "SO2": 88.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_10",
+    "region": "Jaipur",
+    "date": "2025-01-10",
+    "AQI": 362,
+    "pollutants": {
+      "PM2.5": 156.7,
+      "PM10": 158.5,
+      "NO2": 77.7,
+      "CO": 16.53,
+      "O3": 94.7,
+      "SO2": 64.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_11",
+    "region": "Jaipur",
+    "date": "2025-01-11",
+    "AQI": 121,
+    "pollutants": {
+      "PM2.5": 39.6,
+      "PM10": 51.1,
+      "NO2": 30.2,
+      "CO": 0.92,
+      "O3": 25.9,
+      "SO2": 27.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_12",
+    "region": "Jaipur",
+    "date": "2025-01-12",
+    "AQI": 248,
+    "pollutants": {
+      "PM2.5": 141.9,
+      "PM10": 199.0,
+      "NO2": 49.3,
+      "CO": 11.76,
+      "O3": 85.2,
+      "SO2": 75.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_13",
+    "region": "Jaipur",
+    "date": "2025-01-13",
+    "AQI": 129,
+    "pollutants": {
+      "PM2.5": 107.2,
+      "PM10": 102.3,
+      "NO2": 28.0,
+      "CO": 4.07,
+      "O3": 91.2,
+      "SO2": 16.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_14",
+    "region": "Jaipur",
+    "date": "2025-01-14",
+    "AQI": 239,
+    "pollutants": {
+      "PM2.5": 102.9,
+      "PM10": 159.4,
+      "NO2": 23.2,
+      "CO": 4.64,
+      "O3": 176.1,
+      "SO2": 38.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_jai_15",
+    "region": "Jaipur",
+    "date": "2025-01-15",
+    "AQI": 380,
+    "pollutants": {
+      "PM2.5": 195.8,
+      "PM10": 242.8,
+      "NO2": 33.4,
+      "CO": 2.99,
+      "O3": 244.6,
+      "SO2": 74.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_1",
+    "region": "Bhopal",
+    "date": "2025-01-01",
+    "AQI": 389,
+    "pollutants": {
+      "PM2.5": 166.2,
+      "PM10": 304.9,
+      "NO2": 95.0,
+      "CO": 1.72,
+      "O3": 110.3,
+      "SO2": 154.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_2",
+    "region": "Bhopal",
+    "date": "2025-01-02",
+    "AQI": 339,
+    "pollutants": {
+      "PM2.5": 143.4,
+      "PM10": 304.4,
+      "NO2": 54.5,
+      "CO": 10.22,
+      "O3": 209.9,
+      "SO2": 38.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_3",
+    "region": "Bhopal",
+    "date": "2025-01-03",
+    "AQI": 125,
+    "pollutants": {
+      "PM2.5": 96.6,
+      "PM10": 94.7,
+      "NO2": 13.2,
+      "CO": 6.15,
+      "O3": 92.7,
+      "SO2": 28.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_4",
+    "region": "Bhopal",
+    "date": "2025-01-04",
+    "AQI": 139,
+    "pollutants": {
+      "PM2.5": 50.9,
+      "PM10": 127.9,
+      "NO2": 10.6,
+      "CO": 2.67,
+      "O3": 83.7,
+      "SO2": 34.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_5",
+    "region": "Bhopal",
+    "date": "2025-01-05",
+    "AQI": 58,
+    "pollutants": {
+      "PM2.5": 23.5,
+      "PM10": 25.0,
+      "NO2": 11.5,
+      "CO": 1.58,
+      "O3": 33.2,
+      "SO2": 11.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_6",
+    "region": "Bhopal",
+    "date": "2025-01-06",
+    "AQI": 235,
+    "pollutants": {
+      "PM2.5": 142.9,
+      "PM10": 109.4,
+      "NO2": 35.4,
+      "CO": 11.13,
+      "O3": 18.9,
+      "SO2": 74.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_7",
+    "region": "Bhopal",
+    "date": "2025-01-07",
+    "AQI": 387,
+    "pollutants": {
+      "PM2.5": 237.2,
+      "PM10": 261.2,
+      "NO2": 94.0,
+      "CO": 1.9,
+      "O3": 149.1,
+      "SO2": 68.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_8",
+    "region": "Bhopal",
+    "date": "2025-01-08",
+    "AQI": 105,
+    "pollutants": {
+      "PM2.5": 62.4,
+      "PM10": 99.3,
+      "NO2": 6.8,
+      "CO": 0.62,
+      "O3": 50.0,
+      "SO2": 5.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_9",
+    "region": "Bhopal",
+    "date": "2025-01-09",
+    "AQI": 190,
+    "pollutants": {
+      "PM2.5": 128.2,
+      "PM10": 142.7,
+      "NO2": 36.6,
+      "CO": 3.85,
+      "O3": 89.0,
+      "SO2": 25.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_10",
+    "region": "Bhopal",
+    "date": "2025-01-10",
+    "AQI": 308,
+    "pollutants": {
+      "PM2.5": 204.3,
+      "PM10": 141.5,
+      "NO2": 58.6,
+      "CO": 13.22,
+      "O3": 155.7,
+      "SO2": 96.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_11",
+    "region": "Bhopal",
+    "date": "2025-01-11",
+    "AQI": 160,
+    "pollutants": {
+      "PM2.5": 89.3,
+      "PM10": 149.3,
+      "NO2": 21.2,
+      "CO": 6.67,
+      "O3": 52.7,
+      "SO2": 47.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_12",
+    "region": "Bhopal",
+    "date": "2025-01-12",
+    "AQI": 210,
+    "pollutants": {
+      "PM2.5": 116.8,
+      "PM10": 167.8,
+      "NO2": 26.2,
+      "CO": 1.96,
+      "O3": 146.2,
+      "SO2": 10.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_13",
+    "region": "Bhopal",
+    "date": "2025-01-13",
+    "AQI": 93,
+    "pollutants": {
+      "PM2.5": 33.1,
+      "PM10": 42.6,
+      "NO2": 18.4,
+      "CO": 3.81,
+      "O3": 40.9,
+      "SO2": 22.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_14",
+    "region": "Bhopal",
+    "date": "2025-01-14",
+    "AQI": 337,
+    "pollutants": {
+      "PM2.5": 214.7,
+      "PM10": 270.3,
+      "NO2": 44.5,
+      "CO": 14.81,
+      "O3": 238.9,
+      "SO2": 61.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_bho_15",
+    "region": "Bhopal",
+    "date": "2025-01-15",
+    "AQI": 76,
+    "pollutants": {
+      "PM2.5": 67.0,
+      "PM10": 57.8,
+      "NO2": 9.1,
+      "CO": 2.26,
+      "O3": 15.1,
+      "SO2": 20.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_1",
+    "region": "Visakhapatnam",
+    "date": "2025-01-01",
+    "AQI": 164,
+    "pollutants": {
+      "PM2.5": 132.6,
+      "PM10": 100.1,
+      "NO2": 26.4,
+      "CO": 1.23,
+      "O3": 40.2,
+      "SO2": 18.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_2",
+    "region": "Visakhapatnam",
+    "date": "2025-01-02",
+    "AQI": 269,
+    "pollutants": {
+      "PM2.5": 217.1,
+      "PM10": 264.9,
+      "NO2": 57.5,
+      "CO": 8.46,
+      "O3": 134.5,
+      "SO2": 9.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_3",
+    "region": "Visakhapatnam",
+    "date": "2025-01-03",
+    "AQI": 386,
+    "pollutants": {
+      "PM2.5": 307.9,
+      "PM10": 216.3,
+      "NO2": 33.2,
+      "CO": 13.79,
+      "O3": 102.8,
+      "SO2": 58.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_4",
+    "region": "Visakhapatnam",
+    "date": "2025-01-04",
+    "AQI": 53,
+    "pollutants": {
+      "PM2.5": 21.7,
+      "PM10": 25.8,
+      "NO2": 9.6,
+      "CO": 0.28,
+      "O3": 30.1,
+      "SO2": 20.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_5",
+    "region": "Visakhapatnam",
+    "date": "2025-01-05",
+    "AQI": 96,
+    "pollutants": {
+      "PM2.5": 71.8,
+      "PM10": 50.8,
+      "NO2": 12.9,
+      "CO": 1.76,
+      "O3": 29.7,
+      "SO2": 28.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_6",
+    "region": "Visakhapatnam",
+    "date": "2025-01-06",
+    "AQI": 340,
+    "pollutants": {
+      "PM2.5": 223.6,
+      "PM10": 316.2,
+      "NO2": 27.6,
+      "CO": 12.99,
+      "O3": 28.8,
+      "SO2": 18.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_7",
+    "region": "Visakhapatnam",
+    "date": "2025-01-07",
+    "AQI": 276,
+    "pollutants": {
+      "PM2.5": 192.4,
+      "PM10": 190.8,
+      "NO2": 38.2,
+      "CO": 4.17,
+      "O3": 159.7,
+      "SO2": 18.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_8",
+    "region": "Visakhapatnam",
+    "date": "2025-01-08",
+    "AQI": 270,
+    "pollutants": {
+      "PM2.5": 99.0,
+      "PM10": 217.9,
+      "NO2": 45.5,
+      "CO": 7.37,
+      "O3": 71.8,
+      "SO2": 29.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_9",
+    "region": "Visakhapatnam",
+    "date": "2025-01-09",
+    "AQI": 356,
+    "pollutants": {
+      "PM2.5": 118.5,
+      "PM10": 186.1,
+      "NO2": 85.1,
+      "CO": 13.82,
+      "O3": 208.2,
+      "SO2": 47.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_10",
+    "region": "Visakhapatnam",
+    "date": "2025-01-10",
+    "AQI": 111,
+    "pollutants": {
+      "PM2.5": 33.8,
+      "PM10": 94.2,
+      "NO2": 9.5,
+      "CO": 2.25,
+      "O3": 60.2,
+      "SO2": 23.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_11",
+    "region": "Visakhapatnam",
+    "date": "2025-01-11",
+    "AQI": 392,
+    "pollutants": {
+      "PM2.5": 307.2,
+      "PM10": 173.8,
+      "NO2": 87.2,
+      "CO": 1.58,
+      "O3": 24.7,
+      "SO2": 145.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_12",
+    "region": "Visakhapatnam",
+    "date": "2025-01-12",
+    "AQI": 210,
+    "pollutants": {
+      "PM2.5": 135.5,
+      "PM10": 156.2,
+      "NO2": 40.3,
+      "CO": 4.63,
+      "O3": 27.4,
+      "SO2": 6.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_13",
+    "region": "Visakhapatnam",
+    "date": "2025-01-13",
+    "AQI": 216,
+    "pollutants": {
+      "PM2.5": 87.1,
+      "PM10": 209.2,
+      "NO2": 30.7,
+      "CO": 7.58,
+      "O3": 65.5,
+      "SO2": 40.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_14",
+    "region": "Visakhapatnam",
+    "date": "2025-01-14",
+    "AQI": 104,
+    "pollutants": {
+      "PM2.5": 46.4,
+      "PM10": 78.3,
+      "NO2": 16.1,
+      "CO": 2.18,
+      "O3": 27.8,
+      "SO2": 15.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vis_15",
+    "region": "Visakhapatnam",
+    "date": "2025-01-15",
+    "AQI": 220,
+    "pollutants": {
+      "PM2.5": 168.8,
+      "PM10": 98.1,
+      "NO2": 38.9,
+      "CO": 6.04,
+      "O3": 40.9,
+      "SO2": 69.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_1",
+    "region": "Surat",
+    "date": "2025-01-01",
+    "AQI": 229,
+    "pollutants": {
+      "PM2.5": 168.6,
+      "PM10": 204.1,
+      "NO2": 48.8,
+      "CO": 3.06,
+      "O3": 34.9,
+      "SO2": 22.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_2",
+    "region": "Surat",
+    "date": "2025-01-02",
+    "AQI": 358,
+    "pollutants": {
+      "PM2.5": 140.2,
+      "PM10": 306.3,
+      "NO2": 23.3,
+      "CO": 17.06,
+      "O3": 175.3,
+      "SO2": 71.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_3",
+    "region": "Surat",
+    "date": "2025-01-03",
+    "AQI": 338,
+    "pollutants": {
+      "PM2.5": 255.5,
+      "PM10": 226.2,
+      "NO2": 79.4,
+      "CO": 9.83,
+      "O3": 167.2,
+      "SO2": 87.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_4",
+    "region": "Surat",
+    "date": "2025-01-04",
+    "AQI": 371,
+    "pollutants": {
+      "PM2.5": 181.7,
+      "PM10": 246.3,
+      "NO2": 53.3,
+      "CO": 11.99,
+      "O3": 225.4,
+      "SO2": 91.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_5",
+    "region": "Surat",
+    "date": "2025-01-05",
+    "AQI": 230,
+    "pollutants": {
+      "PM2.5": 139.0,
+      "PM10": 134.8,
+      "NO2": 32.3,
+      "CO": 1.09,
+      "O3": 145.4,
+      "SO2": 12.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_6",
+    "region": "Surat",
+    "date": "2025-01-06",
+    "AQI": 96,
+    "pollutants": {
+      "PM2.5": 64.2,
+      "PM10": 67.6,
+      "NO2": 13.7,
+      "CO": 2.75,
+      "O3": 58.0,
+      "SO2": 34.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_7",
+    "region": "Surat",
+    "date": "2025-01-07",
+    "AQI": 280,
+    "pollutants": {
+      "PM2.5": 236.7,
+      "PM10": 208.0,
+      "NO2": 24.5,
+      "CO": 8.69,
+      "O3": 112.3,
+      "SO2": 107.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_8",
+    "region": "Surat",
+    "date": "2025-01-08",
+    "AQI": 280,
+    "pollutants": {
+      "PM2.5": 101.4,
+      "PM10": 263.1,
+      "NO2": 33.2,
+      "CO": 10.16,
+      "O3": 112.9,
+      "SO2": 25.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_9",
+    "region": "Surat",
+    "date": "2025-01-09",
+    "AQI": 176,
+    "pollutants": {
+      "PM2.5": 127.5,
+      "PM10": 175.0,
+      "NO2": 27.2,
+      "CO": 5.5,
+      "O3": 53.6,
+      "SO2": 65.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_10",
+    "region": "Surat",
+    "date": "2025-01-10",
+    "AQI": 248,
+    "pollutants": {
+      "PM2.5": 135.2,
+      "PM10": 149.5,
+      "NO2": 42.1,
+      "CO": 9.89,
+      "O3": 124.8,
+      "SO2": 12.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_11",
+    "region": "Surat",
+    "date": "2025-01-11",
+    "AQI": 98,
+    "pollutants": {
+      "PM2.5": 62.2,
+      "PM10": 61.9,
+      "NO2": 9.8,
+      "CO": 4.2,
+      "O3": 71.1,
+      "SO2": 24.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_12",
+    "region": "Surat",
+    "date": "2025-01-12",
+    "AQI": 126,
+    "pollutants": {
+      "PM2.5": 63.0,
+      "PM10": 94.5,
+      "NO2": 9.9,
+      "CO": 2.37,
+      "O3": 91.7,
+      "SO2": 36.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_13",
+    "region": "Surat",
+    "date": "2025-01-13",
+    "AQI": 250,
+    "pollutants": {
+      "PM2.5": 94.3,
+      "PM10": 206.3,
+      "NO2": 16.7,
+      "CO": 7.21,
+      "O3": 125.1,
+      "SO2": 37.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_14",
+    "region": "Surat",
+    "date": "2025-01-14",
+    "AQI": 115,
+    "pollutants": {
+      "PM2.5": 80.7,
+      "PM10": 103.2,
+      "NO2": 22.7,
+      "CO": 4.01,
+      "O3": 48.1,
+      "SO2": 30.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_sur_15",
+    "region": "Surat",
+    "date": "2025-01-15",
+    "AQI": 266,
+    "pollutants": {
+      "PM2.5": 161.0,
+      "PM10": 109.3,
+      "NO2": 29.7,
+      "CO": 12.68,
+      "O3": 76.9,
+      "SO2": 83.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_1",
+    "region": "Kanpur",
+    "date": "2025-01-01",
+    "AQI": 148,
+    "pollutants": {
+      "PM2.5": 64.5,
+      "PM10": 71.4,
+      "NO2": 9.7,
+      "CO": 6.29,
+      "O3": 17.9,
+      "SO2": 46.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_2",
+    "region": "Kanpur",
+    "date": "2025-01-02",
+    "AQI": 319,
+    "pollutants": {
+      "PM2.5": 102.9,
+      "PM10": 192.1,
+      "NO2": 64.8,
+      "CO": 2.64,
+      "O3": 100.1,
+      "SO2": 27.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_3",
+    "region": "Kanpur",
+    "date": "2025-01-03",
+    "AQI": 369,
+    "pollutants": {
+      "PM2.5": 289.8,
+      "PM10": 184.3,
+      "NO2": 50.8,
+      "CO": 8.02,
+      "O3": 193.2,
+      "SO2": 42.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_4",
+    "region": "Kanpur",
+    "date": "2025-01-04",
+    "AQI": 277,
+    "pollutants": {
+      "PM2.5": 184.6,
+      "PM10": 235.8,
+      "NO2": 57.3,
+      "CO": 3.67,
+      "O3": 60.2,
+      "SO2": 107.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_5",
+    "region": "Kanpur",
+    "date": "2025-01-05",
+    "AQI": 290,
+    "pollutants": {
+      "PM2.5": 244.3,
+      "PM10": 149.8,
+      "NO2": 53.8,
+      "CO": 8.52,
+      "O3": 103.9,
+      "SO2": 90.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_6",
+    "region": "Kanpur",
+    "date": "2025-01-06",
+    "AQI": 245,
+    "pollutants": {
+      "PM2.5": 147.4,
+      "PM10": 159.5,
+      "NO2": 20.2,
+      "CO": 2.84,
+      "O3": 115.9,
+      "SO2": 86.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_7",
+    "region": "Kanpur",
+    "date": "2025-01-07",
+    "AQI": 76,
+    "pollutants": {
+      "PM2.5": 52.0,
+      "PM10": 70.3,
+      "NO2": 12.2,
+      "CO": 0.53,
+      "O3": 48.8,
+      "SO2": 26.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_8",
+    "region": "Kanpur",
+    "date": "2025-01-08",
+    "AQI": 195,
+    "pollutants": {
+      "PM2.5": 68.3,
+      "PM10": 96.8,
+      "NO2": 27.3,
+      "CO": 5.19,
+      "O3": 123.2,
+      "SO2": 11.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_9",
+    "region": "Kanpur",
+    "date": "2025-01-09",
+    "AQI": 163,
+    "pollutants": {
+      "PM2.5": 128.8,
+      "PM10": 151.7,
+      "NO2": 38.5,
+      "CO": 3.57,
+      "O3": 53.4,
+      "SO2": 26.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_10",
+    "region": "Kanpur",
+    "date": "2025-01-10",
+    "AQI": 247,
+    "pollutants": {
+      "PM2.5": 221.5,
+      "PM10": 154.4,
+      "NO2": 13.7,
+      "CO": 11.53,
+      "O3": 157.4,
+      "SO2": 66.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_11",
+    "region": "Kanpur",
+    "date": "2025-01-11",
+    "AQI": 124,
+    "pollutants": {
+      "PM2.5": 47.4,
+      "PM10": 70.9,
+      "NO2": 26.8,
+      "CO": 4.39,
+      "O3": 18.2,
+      "SO2": 35.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_12",
+    "region": "Kanpur",
+    "date": "2025-01-12",
+    "AQI": 279,
+    "pollutants": {
+      "PM2.5": 186.7,
+      "PM10": 263.2,
+      "NO2": 15.0,
+      "CO": 3.45,
+      "O3": 43.2,
+      "SO2": 105.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_13",
+    "region": "Kanpur",
+    "date": "2025-01-13",
+    "AQI": 361,
+    "pollutants": {
+      "PM2.5": 222.6,
+      "PM10": 168.5,
+      "NO2": 38.9,
+      "CO": 5.94,
+      "O3": 30.1,
+      "SO2": 65.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_14",
+    "region": "Kanpur",
+    "date": "2025-01-14",
+    "AQI": 368,
+    "pollutants": {
+      "PM2.5": 211.3,
+      "PM10": 171.7,
+      "NO2": 85.0,
+      "CO": 11.28,
+      "O3": 22.6,
+      "SO2": 80.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_kan_15",
+    "region": "Kanpur",
+    "date": "2025-01-15",
+    "AQI": 173,
+    "pollutants": {
+      "PM2.5": 126.5,
+      "PM10": 99.4,
+      "NO2": 8.7,
+      "CO": 3.28,
+      "O3": 77.8,
+      "SO2": 16.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_1",
+    "region": "Nagpur",
+    "date": "2025-01-01",
+    "AQI": 392,
+    "pollutants": {
+      "PM2.5": 137.7,
+      "PM10": 386.0,
+      "NO2": 24.9,
+      "CO": 10.68,
+      "O3": 158.8,
+      "SO2": 155.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_2",
+    "region": "Nagpur",
+    "date": "2025-01-02",
+    "AQI": 333,
+    "pollutants": {
+      "PM2.5": 104.0,
+      "PM10": 307.7,
+      "NO2": 19.5,
+      "CO": 6.85,
+      "O3": 103.7,
+      "SO2": 101.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_3",
+    "region": "Nagpur",
+    "date": "2025-01-03",
+    "AQI": 232,
+    "pollutants": {
+      "PM2.5": 179.4,
+      "PM10": 140.8,
+      "NO2": 45.6,
+      "CO": 7.46,
+      "O3": 136.9,
+      "SO2": 69.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_4",
+    "region": "Nagpur",
+    "date": "2025-01-04",
+    "AQI": 220,
+    "pollutants": {
+      "PM2.5": 83.6,
+      "PM10": 134.5,
+      "NO2": 25.9,
+      "CO": 7.23,
+      "O3": 138.9,
+      "SO2": 62.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_5",
+    "region": "Nagpur",
+    "date": "2025-01-05",
+    "AQI": 295,
+    "pollutants": {
+      "PM2.5": 200.3,
+      "PM10": 261.6,
+      "NO2": 18.5,
+      "CO": 11.58,
+      "O3": 109.3,
+      "SO2": 39.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_6",
+    "region": "Nagpur",
+    "date": "2025-01-06",
+    "AQI": 72,
+    "pollutants": {
+      "PM2.5": 55.8,
+      "PM10": 67.1,
+      "NO2": 8.1,
+      "CO": 1.22,
+      "O3": 23.7,
+      "SO2": 23.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_7",
+    "region": "Nagpur",
+    "date": "2025-01-07",
+    "AQI": 292,
+    "pollutants": {
+      "PM2.5": 132.0,
+      "PM10": 248.8,
+      "NO2": 25.8,
+      "CO": 5.59,
+      "O3": 174.2,
+      "SO2": 102.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_8",
+    "region": "Nagpur",
+    "date": "2025-01-08",
+    "AQI": 219,
+    "pollutants": {
+      "PM2.5": 101.6,
+      "PM10": 192.6,
+      "NO2": 30.1,
+      "CO": 4.64,
+      "O3": 78.4,
+      "SO2": 84.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_9",
+    "region": "Nagpur",
+    "date": "2025-01-09",
+    "AQI": 223,
+    "pollutants": {
+      "PM2.5": 197.2,
+      "PM10": 155.6,
+      "NO2": 33.3,
+      "CO": 10.34,
+      "O3": 92.2,
+      "SO2": 72.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_10",
+    "region": "Nagpur",
+    "date": "2025-01-10",
+    "AQI": 267,
+    "pollutants": {
+      "PM2.5": 92.7,
+      "PM10": 203.3,
+      "NO2": 57.3,
+      "CO": 7.52,
+      "O3": 73.4,
+      "SO2": 14.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_11",
+    "region": "Nagpur",
+    "date": "2025-01-11",
+    "AQI": 388,
+    "pollutants": {
+      "PM2.5": 185.2,
+      "PM10": 259.0,
+      "NO2": 75.1,
+      "CO": 3.88,
+      "O3": 140.0,
+      "SO2": 74.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_12",
+    "region": "Nagpur",
+    "date": "2025-01-12",
+    "AQI": 230,
+    "pollutants": {
+      "PM2.5": 153.8,
+      "PM10": 152.0,
+      "NO2": 40.9,
+      "CO": 9.2,
+      "O3": 20.7,
+      "SO2": 63.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_13",
+    "region": "Nagpur",
+    "date": "2025-01-13",
+    "AQI": 257,
+    "pollutants": {
+      "PM2.5": 133.1,
+      "PM10": 226.3,
+      "NO2": 47.8,
+      "CO": 12.27,
+      "O3": 38.5,
+      "SO2": 65.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_14",
+    "region": "Nagpur",
+    "date": "2025-01-14",
+    "AQI": 274,
+    "pollutants": {
+      "PM2.5": 87.9,
+      "PM10": 120.7,
+      "NO2": 56.4,
+      "CO": 5.37,
+      "O3": 87.1,
+      "SO2": 65.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nag_15",
+    "region": "Nagpur",
+    "date": "2025-01-15",
+    "AQI": 359,
+    "pollutants": {
+      "PM2.5": 140.8,
+      "PM10": 240.5,
+      "NO2": 44.6,
+      "CO": 8.37,
+      "O3": 37.3,
+      "SO2": 27.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_1",
+    "region": "Indore",
+    "date": "2025-01-01",
+    "AQI": 237,
+    "pollutants": {
+      "PM2.5": 127.7,
+      "PM10": 187.2,
+      "NO2": 23.7,
+      "CO": 1.76,
+      "O3": 133.9,
+      "SO2": 50.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_2",
+    "region": "Indore",
+    "date": "2025-01-02",
+    "AQI": 248,
+    "pollutants": {
+      "PM2.5": 210.3,
+      "PM10": 116.7,
+      "NO2": 50.8,
+      "CO": 8.88,
+      "O3": 49.6,
+      "SO2": 63.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_3",
+    "region": "Indore",
+    "date": "2025-01-03",
+    "AQI": 301,
+    "pollutants": {
+      "PM2.5": 126.5,
+      "PM10": 144.9,
+      "NO2": 19.5,
+      "CO": 3.1,
+      "O3": 165.4,
+      "SO2": 120.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_4",
+    "region": "Indore",
+    "date": "2025-01-04",
+    "AQI": 399,
+    "pollutants": {
+      "PM2.5": 351.3,
+      "PM10": 395.8,
+      "NO2": 73.2,
+      "CO": 14.39,
+      "O3": 173.6,
+      "SO2": 53.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_5",
+    "region": "Indore",
+    "date": "2025-01-05",
+    "AQI": 203,
+    "pollutants": {
+      "PM2.5": 164.6,
+      "PM10": 167.9,
+      "NO2": 47.8,
+      "CO": 6.62,
+      "O3": 122.9,
+      "SO2": 43.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_6",
+    "region": "Indore",
+    "date": "2025-01-06",
+    "AQI": 112,
+    "pollutants": {
+      "PM2.5": 99.8,
+      "PM10": 98.0,
+      "NO2": 10.9,
+      "CO": 2.88,
+      "O3": 33.9,
+      "SO2": 26.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_7",
+    "region": "Indore",
+    "date": "2025-01-07",
+    "AQI": 289,
+    "pollutants": {
+      "PM2.5": 226.1,
+      "PM10": 211.3,
+      "NO2": 49.8,
+      "CO": 1.77,
+      "O3": 77.0,
+      "SO2": 115.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_8",
+    "region": "Indore",
+    "date": "2025-01-08",
+    "AQI": 295,
+    "pollutants": {
+      "PM2.5": 181.5,
+      "PM10": 254.1,
+      "NO2": 63.3,
+      "CO": 1.63,
+      "O3": 215.5,
+      "SO2": 78.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_9",
+    "region": "Indore",
+    "date": "2025-01-09",
+    "AQI": 280,
+    "pollutants": {
+      "PM2.5": 162.3,
+      "PM10": 198.9,
+      "NO2": 21.2,
+      "CO": 11.7,
+      "O3": 122.1,
+      "SO2": 68.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_10",
+    "region": "Indore",
+    "date": "2025-01-10",
+    "AQI": 116,
+    "pollutants": {
+      "PM2.5": 64.9,
+      "PM10": 109.8,
+      "NO2": 7.1,
+      "CO": 0.92,
+      "O3": 18.2,
+      "SO2": 10.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_11",
+    "region": "Indore",
+    "date": "2025-01-11",
+    "AQI": 215,
+    "pollutants": {
+      "PM2.5": 185.1,
+      "PM10": 115.1,
+      "NO2": 51.5,
+      "CO": 5.79,
+      "O3": 53.5,
+      "SO2": 11.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_12",
+    "region": "Indore",
+    "date": "2025-01-12",
+    "AQI": 150,
+    "pollutants": {
+      "PM2.5": 102.2,
+      "PM10": 109.6,
+      "NO2": 11.3,
+      "CO": 2.48,
+      "O3": 63.5,
+      "SO2": 32.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_13",
+    "region": "Indore",
+    "date": "2025-01-13",
+    "AQI": 136,
+    "pollutants": {
+      "PM2.5": 89.1,
+      "PM10": 101.8,
+      "NO2": 11.5,
+      "CO": 4.35,
+      "O3": 92.7,
+      "SO2": 20.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_14",
+    "region": "Indore",
+    "date": "2025-01-14",
+    "AQI": 338,
+    "pollutants": {
+      "PM2.5": 109.8,
+      "PM10": 310.4,
+      "NO2": 22.4,
+      "CO": 16.07,
+      "O3": 199.3,
+      "SO2": 42.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_ind_15",
+    "region": "Indore",
+    "date": "2025-01-15",
+    "AQI": 157,
+    "pollutants": {
+      "PM2.5": 119.3,
+      "PM10": 102.0,
+      "NO2": 27.9,
+      "CO": 4.07,
+      "O3": 76.8,
+      "SO2": 21.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_1",
+    "region": "Thane",
+    "date": "2025-01-01",
+    "AQI": 204,
+    "pollutants": {
+      "PM2.5": 120.3,
+      "PM10": 180.1,
+      "NO2": 38.1,
+      "CO": 3.32,
+      "O3": 20.6,
+      "SO2": 9.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_2",
+    "region": "Thane",
+    "date": "2025-01-02",
+    "AQI": 275,
+    "pollutants": {
+      "PM2.5": 151.1,
+      "PM10": 186.6,
+      "NO2": 32.5,
+      "CO": 2.45,
+      "O3": 179.6,
+      "SO2": 39.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_3",
+    "region": "Thane",
+    "date": "2025-01-03",
+    "AQI": 226,
+    "pollutants": {
+      "PM2.5": 200.1,
+      "PM10": 108.1,
+      "NO2": 28.0,
+      "CO": 6.54,
+      "O3": 61.8,
+      "SO2": 45.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_4",
+    "region": "Thane",
+    "date": "2025-01-04",
+    "AQI": 186,
+    "pollutants": {
+      "PM2.5": 106.0,
+      "PM10": 90.1,
+      "NO2": 11.2,
+      "CO": 8.81,
+      "O3": 121.8,
+      "SO2": 33.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_5",
+    "region": "Thane",
+    "date": "2025-01-05",
+    "AQI": 131,
+    "pollutants": {
+      "PM2.5": 103.2,
+      "PM10": 125.8,
+      "NO2": 25.4,
+      "CO": 1.46,
+      "O3": 21.2,
+      "SO2": 52.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_6",
+    "region": "Thane",
+    "date": "2025-01-06",
+    "AQI": 289,
+    "pollutants": {
+      "PM2.5": 173.2,
+      "PM10": 169.1,
+      "NO2": 15.8,
+      "CO": 13.69,
+      "O3": 116.7,
+      "SO2": 112.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_7",
+    "region": "Thane",
+    "date": "2025-01-07",
+    "AQI": 160,
+    "pollutants": {
+      "PM2.5": 104.0,
+      "PM10": 68.7,
+      "NO2": 17.0,
+      "CO": 4.91,
+      "O3": 102.4,
+      "SO2": 44.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_8",
+    "region": "Thane",
+    "date": "2025-01-08",
+    "AQI": 196,
+    "pollutants": {
+      "PM2.5": 121.9,
+      "PM10": 178.0,
+      "NO2": 26.7,
+      "CO": 8.69,
+      "O3": 109.6,
+      "SO2": 61.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_9",
+    "region": "Thane",
+    "date": "2025-01-09",
+    "AQI": 237,
+    "pollutants": {
+      "PM2.5": 77.5,
+      "PM10": 102.1,
+      "NO2": 38.5,
+      "CO": 4.6,
+      "O3": 59.7,
+      "SO2": 40.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_10",
+    "region": "Thane",
+    "date": "2025-01-10",
+    "AQI": 280,
+    "pollutants": {
+      "PM2.5": 212.4,
+      "PM10": 159.0,
+      "NO2": 69.4,
+      "CO": 9.7,
+      "O3": 37.3,
+      "SO2": 109.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_11",
+    "region": "Thane",
+    "date": "2025-01-11",
+    "AQI": 251,
+    "pollutants": {
+      "PM2.5": 131.5,
+      "PM10": 249.0,
+      "NO2": 40.6,
+      "CO": 4.91,
+      "O3": 37.9,
+      "SO2": 63.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_12",
+    "region": "Thane",
+    "date": "2025-01-12",
+    "AQI": 255,
+    "pollutants": {
+      "PM2.5": 153.0,
+      "PM10": 108.9,
+      "NO2": 19.7,
+      "CO": 4.59,
+      "O3": 97.3,
+      "SO2": 50.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_13",
+    "region": "Thane",
+    "date": "2025-01-13",
+    "AQI": 360,
+    "pollutants": {
+      "PM2.5": 300.9,
+      "PM10": 174.2,
+      "NO2": 85.1,
+      "CO": 6.22,
+      "O3": 117.0,
+      "SO2": 92.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_14",
+    "region": "Thane",
+    "date": "2025-01-14",
+    "AQI": 203,
+    "pollutants": {
+      "PM2.5": 133.2,
+      "PM10": 143.0,
+      "NO2": 30.8,
+      "CO": 5.18,
+      "O3": 90.1,
+      "SO2": 41.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_tha_15",
+    "region": "Thane",
+    "date": "2025-01-15",
+    "AQI": 58,
+    "pollutants": {
+      "PM2.5": 30.2,
+      "PM10": 46.6,
+      "NO2": 14.3,
+      "CO": 1.74,
+      "O3": 35.2,
+      "SO2": 17.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_1",
+    "region": "Agra",
+    "date": "2025-01-01",
+    "AQI": 372,
+    "pollutants": {
+      "PM2.5": 117.5,
+      "PM10": 254.7,
+      "NO2": 90.6,
+      "CO": 14.72,
+      "O3": 220.7,
+      "SO2": 89.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_2",
+    "region": "Agra",
+    "date": "2025-01-02",
+    "AQI": 76,
+    "pollutants": {
+      "PM2.5": 49.4,
+      "PM10": 38.2,
+      "NO2": 13.4,
+      "CO": 2.41,
+      "O3": 48.6,
+      "SO2": 6.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_3",
+    "region": "Agra",
+    "date": "2025-01-03",
+    "AQI": 398,
+    "pollutants": {
+      "PM2.5": 177.2,
+      "PM10": 295.9,
+      "NO2": 75.7,
+      "CO": 4.44,
+      "O3": 142.8,
+      "SO2": 72.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_4",
+    "region": "Agra",
+    "date": "2025-01-04",
+    "AQI": 261,
+    "pollutants": {
+      "PM2.5": 186.4,
+      "PM10": 168.7,
+      "NO2": 53.5,
+      "CO": 12.05,
+      "O3": 172.5,
+      "SO2": 78.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_5",
+    "region": "Agra",
+    "date": "2025-01-05",
+    "AQI": 81,
+    "pollutants": {
+      "PM2.5": 58.6,
+      "PM10": 57.6,
+      "NO2": 13.1,
+      "CO": 4.04,
+      "O3": 31.2,
+      "SO2": 13.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_6",
+    "region": "Agra",
+    "date": "2025-01-06",
+    "AQI": 138,
+    "pollutants": {
+      "PM2.5": 79.5,
+      "PM10": 99.3,
+      "NO2": 22.0,
+      "CO": 4.75,
+      "O3": 90.7,
+      "SO2": 38.7
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_7",
+    "region": "Agra",
+    "date": "2025-01-07",
+    "AQI": 185,
+    "pollutants": {
+      "PM2.5": 123.2,
+      "PM10": 95.3,
+      "NO2": 18.4,
+      "CO": 5.33,
+      "O3": 38.4,
+      "SO2": 72.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_8",
+    "region": "Agra",
+    "date": "2025-01-08",
+    "AQI": 202,
+    "pollutants": {
+      "PM2.5": 154.1,
+      "PM10": 166.2,
+      "NO2": 38.0,
+      "CO": 5.15,
+      "O3": 77.9,
+      "SO2": 47.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_9",
+    "region": "Agra",
+    "date": "2025-01-09",
+    "AQI": 190,
+    "pollutants": {
+      "PM2.5": 89.8,
+      "PM10": 141.4,
+      "NO2": 30.1,
+      "CO": 8.55,
+      "O3": 62.0,
+      "SO2": 29.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_10",
+    "region": "Agra",
+    "date": "2025-01-10",
+    "AQI": 124,
+    "pollutants": {
+      "PM2.5": 58.8,
+      "PM10": 71.0,
+      "NO2": 23.9,
+      "CO": 2.31,
+      "O3": 44.6,
+      "SO2": 15.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_11",
+    "region": "Agra",
+    "date": "2025-01-11",
+    "AQI": 295,
+    "pollutants": {
+      "PM2.5": 126.4,
+      "PM10": 264.5,
+      "NO2": 30.7,
+      "CO": 8.55,
+      "O3": 70.8,
+      "SO2": 19.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_12",
+    "region": "Agra",
+    "date": "2025-01-12",
+    "AQI": 350,
+    "pollutants": {
+      "PM2.5": 155.2,
+      "PM10": 150.7,
+      "NO2": 80.9,
+      "CO": 4.49,
+      "O3": 74.5,
+      "SO2": 21.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_13",
+    "region": "Agra",
+    "date": "2025-01-13",
+    "AQI": 219,
+    "pollutants": {
+      "PM2.5": 160.0,
+      "PM10": 100.8,
+      "NO2": 44.7,
+      "CO": 0.49,
+      "O3": 95.3,
+      "SO2": 81.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_14",
+    "region": "Agra",
+    "date": "2025-01-14",
+    "AQI": 258,
+    "pollutants": {
+      "PM2.5": 178.5,
+      "PM10": 239.5,
+      "NO2": 37.4,
+      "CO": 8.57,
+      "O3": 149.4,
+      "SO2": 34.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_agr_15",
+    "region": "Agra",
+    "date": "2025-01-15",
+    "AQI": 196,
+    "pollutants": {
+      "PM2.5": 134.8,
+      "PM10": 185.2,
+      "NO2": 13.3,
+      "CO": 5.79,
+      "O3": 83.2,
+      "SO2": 58.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_1",
+    "region": "Vadodara",
+    "date": "2025-01-01",
+    "AQI": 69,
+    "pollutants": {
+      "PM2.5": 58.5,
+      "PM10": 34.8,
+      "NO2": 15.6,
+      "CO": 0.72,
+      "O3": 47.9,
+      "SO2": 27.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_2",
+    "region": "Vadodara",
+    "date": "2025-01-02",
+    "AQI": 253,
+    "pollutants": {
+      "PM2.5": 195.5,
+      "PM10": 129.5,
+      "NO2": 50.5,
+      "CO": 11.1,
+      "O3": 63.9,
+      "SO2": 9.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_3",
+    "region": "Vadodara",
+    "date": "2025-01-03",
+    "AQI": 202,
+    "pollutants": {
+      "PM2.5": 129.4,
+      "PM10": 93.8,
+      "NO2": 49.8,
+      "CO": 3.16,
+      "O3": 150.0,
+      "SO2": 46.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_4",
+    "region": "Vadodara",
+    "date": "2025-01-04",
+    "AQI": 302,
+    "pollutants": {
+      "PM2.5": 251.7,
+      "PM10": 145.1,
+      "NO2": 45.6,
+      "CO": 4.56,
+      "O3": 186.1,
+      "SO2": 45.0
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_5",
+    "region": "Vadodara",
+    "date": "2025-01-05",
+    "AQI": 284,
+    "pollutants": {
+      "PM2.5": 195.7,
+      "PM10": 236.0,
+      "NO2": 15.0,
+      "CO": 5.16,
+      "O3": 72.9,
+      "SO2": 78.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_6",
+    "region": "Vadodara",
+    "date": "2025-01-06",
+    "AQI": 148,
+    "pollutants": {
+      "PM2.5": 60.0,
+      "PM10": 135.2,
+      "NO2": 34.0,
+      "CO": 6.17,
+      "O3": 60.8,
+      "SO2": 8.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_7",
+    "region": "Vadodara",
+    "date": "2025-01-07",
+    "AQI": 392,
+    "pollutants": {
+      "PM2.5": 140.0,
+      "PM10": 387.7,
+      "NO2": 57.0,
+      "CO": 18.39,
+      "O3": 21.5,
+      "SO2": 66.2
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_8",
+    "region": "Vadodara",
+    "date": "2025-01-08",
+    "AQI": 278,
+    "pollutants": {
+      "PM2.5": 209.1,
+      "PM10": 270.3,
+      "NO2": 30.7,
+      "CO": 10.2,
+      "O3": 16.1,
+      "SO2": 75.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_9",
+    "region": "Vadodara",
+    "date": "2025-01-09",
+    "AQI": 170,
+    "pollutants": {
+      "PM2.5": 57.3,
+      "PM10": 80.1,
+      "NO2": 18.9,
+      "CO": 3.65,
+      "O3": 68.3,
+      "SO2": 61.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_10",
+    "region": "Vadodara",
+    "date": "2025-01-10",
+    "AQI": 209,
+    "pollutants": {
+      "PM2.5": 149.3,
+      "PM10": 163.7,
+      "NO2": 49.8,
+      "CO": 4.11,
+      "O3": 42.8,
+      "SO2": 80.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_11",
+    "region": "Vadodara",
+    "date": "2025-01-11",
+    "AQI": 294,
+    "pollutants": {
+      "PM2.5": 115.2,
+      "PM10": 249.5,
+      "NO2": 50.3,
+      "CO": 6.46,
+      "O3": 127.7,
+      "SO2": 59.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_12",
+    "region": "Vadodara",
+    "date": "2025-01-12",
+    "AQI": 325,
+    "pollutants": {
+      "PM2.5": 253.9,
+      "PM10": 291.0,
+      "NO2": 65.8,
+      "CO": 11.26,
+      "O3": 151.8,
+      "SO2": 104.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_13",
+    "region": "Vadodara",
+    "date": "2025-01-13",
+    "AQI": 319,
+    "pollutants": {
+      "PM2.5": 181.2,
+      "PM10": 262.3,
+      "NO2": 20.9,
+      "CO": 9.28,
+      "O3": 29.7,
+      "SO2": 73.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_14",
+    "region": "Vadodara",
+    "date": "2025-01-14",
+    "AQI": 308,
+    "pollutants": {
+      "PM2.5": 129.8,
+      "PM10": 222.4,
+      "NO2": 25.5,
+      "CO": 13.25,
+      "O3": 110.7,
+      "SO2": 86.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_vad_15",
+    "region": "Vadodara",
+    "date": "2025-01-15",
+    "AQI": 348,
+    "pollutants": {
+      "PM2.5": 206.5,
+      "PM10": 326.9,
+      "NO2": 48.4,
+      "CO": 1.63,
+      "O3": 49.5,
+      "SO2": 62.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_1",
+    "region": "Nashik",
+    "date": "2025-01-01",
+    "AQI": 338,
+    "pollutants": {
+      "PM2.5": 113.1,
+      "PM10": 229.0,
+      "NO2": 71.4,
+      "CO": 12.41,
+      "O3": 110.6,
+      "SO2": 111.9
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_2",
+    "region": "Nashik",
+    "date": "2025-01-02",
+    "AQI": 161,
+    "pollutants": {
+      "PM2.5": 104.2,
+      "PM10": 68.8,
+      "NO2": 19.1,
+      "CO": 0.81,
+      "O3": 120.1,
+      "SO2": 60.5
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_3",
+    "region": "Nashik",
+    "date": "2025-01-03",
+    "AQI": 85,
+    "pollutants": {
+      "PM2.5": 75.8,
+      "PM10": 58.1,
+      "NO2": 9.1,
+      "CO": 0.9,
+      "O3": 12.3,
+      "SO2": 22.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_4",
+    "region": "Nashik",
+    "date": "2025-01-04",
+    "AQI": 380,
+    "pollutants": {
+      "PM2.5": 333.7,
+      "PM10": 237.4,
+      "NO2": 86.7,
+      "CO": 8.94,
+      "O3": 263.0,
+      "SO2": 63.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_5",
+    "region": "Nashik",
+    "date": "2025-01-05",
+    "AQI": 91,
+    "pollutants": {
+      "PM2.5": 64.6,
+      "PM10": 72.5,
+      "NO2": 14.4,
+      "CO": 3.04,
+      "O3": 26.7,
+      "SO2": 8.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_6",
+    "region": "Nashik",
+    "date": "2025-01-06",
+    "AQI": 325,
+    "pollutants": {
+      "PM2.5": 174.1,
+      "PM10": 154.8,
+      "NO2": 79.9,
+      "CO": 13.67,
+      "O3": 188.3,
+      "SO2": 127.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_7",
+    "region": "Nashik",
+    "date": "2025-01-07",
+    "AQI": 287,
+    "pollutants": {
+      "PM2.5": 202.1,
+      "PM10": 208.6,
+      "NO2": 44.9,
+      "CO": 11.92,
+      "O3": 64.1,
+      "SO2": 44.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_8",
+    "region": "Nashik",
+    "date": "2025-01-08",
+    "AQI": 191,
+    "pollutants": {
+      "PM2.5": 78.9,
+      "PM10": 176.7,
+      "NO2": 38.8,
+      "CO": 0.68,
+      "O3": 97.8,
+      "SO2": 48.8
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_9",
+    "region": "Nashik",
+    "date": "2025-01-09",
+    "AQI": 58,
+    "pollutants": {
+      "PM2.5": 25.8,
+      "PM10": 25.5,
+      "NO2": 9.8,
+      "CO": 1.36,
+      "O3": 30.2,
+      "SO2": 20.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_10",
+    "region": "Nashik",
+    "date": "2025-01-10",
+    "AQI": 175,
+    "pollutants": {
+      "PM2.5": 130.3,
+      "PM10": 112.2,
+      "NO2": 17.0,
+      "CO": 2.18,
+      "O3": 114.6,
+      "SO2": 8.1
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_11",
+    "region": "Nashik",
+    "date": "2025-01-11",
+    "AQI": 307,
+    "pollutants": {
+      "PM2.5": 275.1,
+      "PM10": 165.9,
+      "NO2": 71.6,
+      "CO": 9.1,
+      "O3": 139.4,
+      "SO2": 96.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_12",
+    "region": "Nashik",
+    "date": "2025-01-12",
+    "AQI": 214,
+    "pollutants": {
+      "PM2.5": 94.6,
+      "PM10": 198.1,
+      "NO2": 52.9,
+      "CO": 5.78,
+      "O3": 72.7,
+      "SO2": 27.4
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_13",
+    "region": "Nashik",
+    "date": "2025-01-13",
+    "AQI": 335,
+    "pollutants": {
+      "PM2.5": 291.2,
+      "PM10": 310.8,
+      "NO2": 77.8,
+      "CO": 10.74,
+      "O3": 116.9,
+      "SO2": 70.6
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_14",
+    "region": "Nashik",
+    "date": "2025-01-14",
+    "AQI": 226,
+    "pollutants": {
+      "PM2.5": 195.5,
+      "PM10": 181.4,
+      "NO2": 46.8,
+      "CO": 3.91,
+      "O3": 77.2,
+      "SO2": 18.3
+    },
+    "health_risk": ""
+  },
+  {
+    "record_id": "rec_nas_15",
+    "region": "Nashik",
+    "date": "2025-01-15",
+    "AQI": 242,
+    "pollutants": {
+      "PM2.5": 99.3,
+      "PM10": 174.9,
+      "NO2": 23.8,
+      "CO": 3.1,
+      "O3": 157.4,
+      "SO2": 19.1
+    },
+    "health_risk": ""
+  }
+]

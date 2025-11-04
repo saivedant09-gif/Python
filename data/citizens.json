@@ -1,0 +1,30 @@
+[
+  {
+    "citizen_id": "cit_alice",
+    "name": "Alice",
+    "age": 30,
+    "location": "Delhi",
+    "contact": "alice@example.com"
+  },
+  {
+    "citizen_id": "cit_bob",
+    "name": "Bob",
+    "age": 40,
+    "location": "Mumbai",
+    "contact": "bob@example.com"
+  },
+  {
+    "citizen_id": "cit_192f93ff",
+    "name": "hi",
+    "age": "hi",
+    "location": "hi",
+    "contact": "hi"
+  },
+  {
+    "citizen_id": "cit_f43e0e94",
+    "name": "SAI Vedant",
+    "age": "18",
+    "location": "Lucknow",
+    "contact": "9999999999"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "guide_id": "g1",
+    "AQI_range": "0-50",
+    "precautions": "Good: No health impacts expected."
+  },
+  {
+    "guide_id": "g2",
+    "AQI_range": "51-100",
+    "precautions": "Moderate: Unusually sensitive people should consider reducing prolonged outdoor exertion."
+  },
+  {
+    "guide_id": "g3",
+    "AQI_range": "101-200",
+    "precautions": "Unhealthy: Sensitive groups should reduce prolonged outdoor exertion."
+  },
+  {
+    "guide_id": "g4",
+    "AQI_range": "201-300",
+    "precautions": "Very Unhealthy: Avoid outdoor activities."
+  },
+  {
+    "guide_id": "g5",
+    "AQI_range": "301-500",
+    "precautions": "Hazardous: Remain indoors and use protective measures."
+  }
+]

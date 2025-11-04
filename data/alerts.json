@@ -1,0 +1,26 @@
+[
+  {
+    "alert_id": "alert_del_01",
+    "region": "Delhi",
+    "AQI_level": "Very Unhealthy",
+    "status": "active",
+    "issue_date": "2025-01-10",
+    "expiry_date": "2025-01-12"
+  },
+  {
+    "alert_id": "alert_kan_01",
+    "region": "Kanpur",
+    "AQI_level": "Hazardous",
+    "status": "active",
+    "issue_date": "2025-01-08",
+    "expiry_date": "2025-01-11"
+  },
+  {
+    "alert_id": "alert_17c379c8",
+    "region": "Delhi",
+    "AQI_level": "469",
+    "status": "withdrawn",
+    "issue_date": "2025-11-04",
+    "expiry_date": "blank"
+  }
+]

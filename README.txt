@@ -1,0 +1,1 @@
+Air Quality & Pollution Tracking Portal (CLI) - Windows friendly\nRun: python main.py\nAdmin: admin / admin123\n
