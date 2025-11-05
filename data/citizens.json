@@ -19,5 +19,19 @@
     "age": "18",
     "location": "Lucknow",
     "contact": "6387918594"
+  },
+  {
+    "citizen_id": "cit_527d76e2",
+    "name": "G NIKHIL SREENIVAS",
+    "age": "18",
+    "location": "KOLKATA",
+    "contact": "6926656212"
+  },
+  {
+    "citizen_id": "cit_VEDANT",
+    "name": "VEDANT SAI",
+    "age": "18",
+    "location": "CHENNAI",
+    "contact": "6387918594"
   }
 ]
